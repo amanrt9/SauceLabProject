@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T16:14:47 IST" name="Suite" finished-at="2024-12-16T16:14:59 IST" duration-ms="12365">
+    <groups>
+    </groups>
+    <test started-at="2024-12-16T16:14:47 IST" name="Test" finished-at="2024-12-16T16:14:59 IST" duration-ms="12365">
+      <class name="module2_cart.SauceLab_AddToCart_Test">
+        <test-method is-config="true" signature="openBrrowser(java.lang.String)[pri:0, instance:module2_cart.SauceLab_AddToCart_Test@3e27aa33]" started-at="2024-12-16T16:14:47 IST" name="openBrrowser" finished-at="2024-12-16T16:14:51 IST" duration-ms="3996" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:module2_cart.SauceLab_AddToCart_Test@3e27aa33]" started-at="2024-12-16T16:14:51 IST" name="login" finished-at="2024-12-16T16:14:52 IST" duration-ms="829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="addToCart()[pri:0, instance:module2_cart.SauceLab_AddToCart_Test@3e27aa33]" started-at="2024-12-16T16:14:52 IST" name="addToCart" finished-at="2024-12-16T16:14:56 IST" duration-ms="4485" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:module2_cart.SauceLab_AddToCart_Test@3e27aa33]" started-at="2024-12-16T16:14:56 IST" name="logout" finished-at="2024-12-16T16:14:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="browserClose()[pri:0, instance:module2_cart.SauceLab_AddToCart_Test@3e27aa33]" started-at="2024-12-16T16:14:56 IST" name="browserClose" finished-at="2024-12-16T16:14:59 IST" duration-ms="3002" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- module2_cart.SauceLab_AddToCart_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
